@@ -1,0 +1,32 @@
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\PersistEngine.exe.config
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\PersistEngine.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\PersistEngine.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBExtensions.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\DBExtensions.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\obj\Debug\PersistEngine.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\PersistEngine\obj\Debug\PersistEngine.exe
+E:\SMA code samples\Project2Starter\PersistEngine\obj\Debug\PersistEngine.pdb
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\Display.exe
+E:\SMA code samples\Project2Starter\PersistEngine\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\PersistEngine.exe.config
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\PersistEngine.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\PersistEngine.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBExtensions.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\Display.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\DBExtensions.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\PersistEngine\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\PersistEngine\obj\Debug\PersistEngine.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\PersistEngine\obj\Debug\PersistEngine.exe
+E:\SMA_project2\Project 2\PersistEngine\obj\Debug\PersistEngine.pdb

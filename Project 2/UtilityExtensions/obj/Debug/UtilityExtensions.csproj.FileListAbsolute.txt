@@ -1,0 +1,16 @@
+C:\Users\James\Desktop\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.exe.config
+C:\Users\James\Desktop\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.exe
+C:\Users\James\Desktop\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.pdb
+C:\Users\James\Desktop\Project2Starter\UtilityExtensions\obj\Debug\UtilityExtensions.exe
+C:\Users\James\Desktop\Project2Starter\UtilityExtensions\obj\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.exe.config
+E:\SMA code samples\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\UtilityExtensions\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\UtilityExtensions\obj\Debug\UtilityExtensions.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\UtilityExtensions\obj\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\UtilityExtensions\obj\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\UtilityExtensions\bin\Debug\UtilityExtensions.exe.config
+E:\SMA_project2\Project 2\UtilityExtensions\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\UtilityExtensions\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\UtilityExtensions\obj\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\UtilityExtensions\obj\Debug\UtilityExtensions.pdb

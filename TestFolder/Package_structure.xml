@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.String</Keytype>
+  <Payloadtype>System.String</Payloadtype>
+  <Key Key="DBElement" Name="DBElement" Description="The DBElement state consists of metadata and an instance of the Data type" Timestamp="2015-10-06T00:30:45.3864515-04:00">
+    <Payload></Payload>
+    <Children>
+      <item>UtilityExtensions</item>
+    </Children>
+  </Key>
+  <Key Key="DBEngine" Name="DBEngine" Description="This package implements DBEngine(Key,Value) where Value is the DBElement(key, Data) type" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+      <item>UtilityExtensions</item>
+      <item>DBElement</item>
+    </Children>
+  </Key>
+  <Key Key="DBExtensions" Name="DBExtensions" Description="This package implements extensions methods to support displaying DBElements and DBEngine instances." Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+    </Children>
+  </Key>
+  <Key Key="Display" Name="Display" Description="This package implements formatting functions and tests them along with DBExtensions" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+    </Children>
+  </Key>
+   <Key Key="UtilityExtensions" Name="UtilityExtensions" Description="This package implements utility extensions that are not specific to a single package" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+  </Key>
+  <Key Key="DBEdit" Name="DBEdit" Description="This package implements editing of metadata" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	<item>Display</item>
+	<item>DBExtensions</item>
+	  <item>PersistEngine</item>
+    </Children>
+  </Key>
+   <Key Key="PersistEngine" Name="PersistEngine" Description="This package implements persisting and unpersisting of database contents" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+	  <item>Display</item>
+    </Children>
+  </Key>
+  <Key Key="Scheduler" Name="Scheduler" Description="This package implements scheduling of database contents to persist store" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+	  <item>PersistEngine</item>
+    </Children>
+  </Key>
+   <Key Key="QueryEngine" Name="QueryEngine" Description="This package supports queries on database" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+	  <item>DBFactory</item>
+          <item>Display</item>
+    </Children>
+  </Key>
+  <Key Key="Demo_requirements" Name="Demo_requirements" Description="This package supports demonstration of requirements" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+	  <item>Display</item>
+	  <item>PersistEngine</item>
+	  <item>QueryEngine</item>
+	  <item>Scheduler</item>
+    </Children>
+  </Key>
+  <Key Key="TESTDBFactory" Name="TESTDBFactory" Description="This package tests DBFactory methods" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>UtilityExtensions</item>
+      <item>DBEngine</item>
+	  <item>DBExtensions</item>
+	  <item>Display</item>
+	  <item>QueryEngine</item>
+    </Children>
+  </Key>  
+
+   <Key Key="DBFactory" Name="DBFactory" Description="This package supports creation of new immutable database" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>DBEngine</item>
+    </Children>
+  </Key>
+  <Key Key="TestExec" Name="TestExec" Description="This package starts the control of the application" Timestamp="2015-10-06T00:30:45.1864404-04:00">
+    <Payload></Payload>
+    <Children>
+	  <item>DBElement</item>
+      <item>DBEngine</item>
+	  <item>Demo_requirements</item>
+	  <item>UtilityExtensions</item>
+    </Children>
+  </Key>
+</root>

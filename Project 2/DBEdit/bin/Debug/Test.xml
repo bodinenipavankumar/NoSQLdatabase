@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.String</Keytype>
+  <Payloadtype>System.Collections.Generic.List`1[System.String]</Payloadtype>
+  <Key Key="-1587306074" Name="new name for edit" Description="new desc for edit" Timestamp="2015-10-06T22:18:02.1957331-04:00">
+    <Payload>
+      <item>al</item>
+      <item>be</item>
+      <item>ga</item>
+    </Payload>
+    <Children>
+      <item>fifth</item>
+      <item>seven</item>
+      <item>1141577281</item>
+    </Children>
+  </Key>
+  <Key Key="1141577281" Name="pk1" Description="testing replacing instance" Timestamp="2015-10-06T22:18:02.1806935-04:00">
+    <Payload>
+      <item>alpha</item>
+      <item>beta</item>
+      <item>gamma</item>
+    </Payload>
+    <Children>
+      <item>first</item>
+      <item>second</item>
+    </Children>
+  </Key>
+</root>

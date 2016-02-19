@@ -1,0 +1,52 @@
+E:\SMA code samples\Project2Starter\Demo_requirements\obj\Debug\Demo_requirements.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Demo_requirements.exe.config
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Demo_requirements.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Demo_requirements.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBExtensions.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Display.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBExtensions.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Display.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\obj\Debug\Demo_requirements.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\obj\Debug\Demo_requirements.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBEdit.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBEdit.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Scheduler.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\Scheduler.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\PersistEngine.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\PersistEngine.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\QueryEngine.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\QueryEngine.pdb
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBFactory.exe
+E:\SMA code samples\Project2Starter\Demo_requirements\bin\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Demo_requirements.exe.config
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Demo_requirements.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Demo_requirements.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBEdit.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBExtensions.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Display.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\PersistEngine.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\QueryEngine.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Scheduler.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBFactory.exe
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBEdit.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBExtensions.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\PersistEngine.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\QueryEngine.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\Scheduler.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\Demo_requirements\bin\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\Demo_requirements\obj\Debug\Demo_requirements.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\Demo_requirements\obj\Debug\Demo_requirements.exe
+E:\SMA_project2\Project 2\Demo_requirements\obj\Debug\Demo_requirements.pdb

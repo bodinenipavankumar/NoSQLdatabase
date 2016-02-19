@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.Int32</Keytype>
+  <Payloadtype>System.String</Payloadtype>
+  <Key Key="1" Name="element" Description="test element" Timestamp="2015-10-06T22:24:39.341218-04:00">
+    <Payload>elem's payload pk</Payload>
+    <Children>
+      <item>1</item>
+      <item>3</item>
+    </Children>
+  </Key>
+  <Key Key="2" Name="element2" Description="test element2" Timestamp="2015-10-06T22:24:39.3452178-04:00">
+    <Payload>elem's payload pkdsdsd</Payload>
+    <Children>
+      <item>1</item>
+      <item>3</item>
+    </Children>
+  </Key>
+</root>

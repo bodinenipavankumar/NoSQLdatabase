@@ -1,0 +1,36 @@
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBEdit.exe.config
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBEdit.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBEdit.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\DBEdit\obj\Debug\DBEdit.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\DBEdit\obj\Debug\DBEdit.exe
+E:\SMA code samples\Project2Starter\DBEdit\obj\Debug\DBEdit.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\PersistEngine.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBExtensions.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\PersistEngine.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\DBExtensions.pdb
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\Display.exe
+E:\SMA code samples\Project2Starter\DBEdit\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBEdit.exe.config
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBEdit.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBEdit.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBExtensions.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\Display.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\PersistEngine.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\DBExtensions.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\PersistEngine.pdb
+E:\SMA_project2\Project 2\DBEdit\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\DBEdit\obj\Debug\DBEdit.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\DBEdit\obj\Debug\DBEdit.exe
+E:\SMA_project2\Project 2\DBEdit\obj\Debug\DBEdit.pdb

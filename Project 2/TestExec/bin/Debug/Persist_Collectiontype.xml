@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.String</Keytype>
+  <Payloadtype>System.Collections.Generic.List`1[System.String]</Payloadtype>
+  <Key Key="-1587306074" Name="new name for edit" Description="new desc for edit" Timestamp="2015-10-07T21:13:43.1294998-04:00">
+    <Payload>
+      <item>Ellen Burstyn</item>
+      <item>Matthew McConaughey</item>
+      <item>Mackenzie Foy</item>
+    </Payload>
+    <Children>
+      <item>fifth</item>
+      <item>seven</item>
+    </Children>
+  </Key>
+  <Key Key="1141577281" Name="Inception" Description="A thief who steals corporate secrets through use of dream-sharing technology" Timestamp="2015-10-07T21:13:43.0334986-04:00">
+    <Payload>
+      <item>Leonardo DiCaprio</item>
+      <item>Joseph Gordon</item>
+      <item>Ellen Page</item>
+    </Payload>
+    <Children>
+      <item>first</item>
+      <item>second</item>
+    </Children>
+  </Key>
+  <Key Key="1147306074" Name="Casablanca" Description="Contents from Augment file" Timestamp="2015-10-07T21:13:43.2136042-04:00">
+    <Payload>
+      <item>Humphrey Bogart</item>
+      <item>Ingrid Bergman</item>
+      <item>Paul Henreid</item>
+    </Payload>
+    <Children>
+      <item>ten</item>
+      <item>eleven</item>
+    </Children>
+  </Key>
+  <Key Key="1132406074" Name="Psycho" Description="Contents from Augment file" Timestamp="2015-10-07T21:13:43.2136042-04:00">
+    <Payload>
+      <item>Anthony Perkins</item>
+      <item>Vera Miles</item>
+      <item>John Gavin</item>
+    </Payload>
+    <Children />
+  </Key>
+</root>

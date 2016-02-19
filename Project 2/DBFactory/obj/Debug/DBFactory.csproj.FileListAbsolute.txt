@@ -1,0 +1,24 @@
+E:\SMA code samples\Project2Starter\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBFactory.exe.config
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBFactory.exe
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBFactory.pdb
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\DBFactory\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\DBFactory\obj\Debug\DBFactory.exe
+E:\SMA code samples\Project2Starter\DBFactory\obj\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBFactory.exe.config
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBFactory.exe
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\DBFactory\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\DBFactory\obj\Debug\DBFactory.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\DBFactory\obj\Debug\DBFactory.exe
+E:\SMA_project2\Project 2\DBFactory\obj\Debug\DBFactory.pdb

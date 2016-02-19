@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.String</Keytype>
+  <Payloadtype>System.Collections.Generic.List`1[System.String]</Payloadtype>
+  <Key Key="1147306074" Name="Casablanca" Description="Contents from Augment file" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+      <item>Humphrey Bogart</item>
+      <item>Ingrid Bergman</item>
+      <item>Paul Henreid</item>
+    </Payload>
+    <Children>
+      <item>ten</item>
+      <item>eleven</item>
+    </Children>
+  </Key>
+<Key Key="1132406074" Name="Psycho" Description="Contents from Augment file" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+      <item>Anthony Perkins</item>
+      <item>Vera Miles</item>
+      <item>John Gavin</item>
+    </Payload>
+  </Key>
+</root>

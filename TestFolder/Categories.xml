@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.String</Keytype>
+  <Payloadtype>System.Collections.Generic.List`1[System.String]</Payloadtype>
+  <Key Key="Mobile" Name="Mobile Devices" Description="Stores the brands that produce mobile devices" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+      <item>Samsung</item>
+      <item>Micromax</item>
+      <item>HTC</item>
+       <item>Apple</item>
+    </Payload>
+  </Key>
+<Key Key="Television" Name="Television" Description="Stores the brands that produce Televisions" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+      <item>Samsung</item>
+      <item>Philips</item>
+      <item>Onida</item>
+    </Payload>
+  </Key>
+<Key Key="Desktop" Name="Desktop Devices" Description="Stores the brands that produce Destop devices" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+      <item>Samsung</item>
+      <item>Apple</item>
+      <item>Toshiba</item>
+    </Payload>
+  </Key>
+<Key Key="Samsung" Name="Samsung" Description="Samsing is a South Korean multinational conglomerate company headquartered in Samsung Town, Seoul." Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Mobile</item>
+      <item>Television</item>
+      <item>Desktop</item>
+    </Children>
+  </Key>
+<Key Key="Apple" Name="Apple" Description="To a zulu, every phone is an iPhone" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Mobile</item>
+      <item>Desktop</item>
+    </Children>
+  </Key>
+<Key Key="Micromax" Name="Micromax" Description="Micromax is an Indian consumer electronics company headquartered in Gurgaon, Haryana, India." Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Mobile</item>
+    </Children>
+  </Key>
+<Key Key="HTC" Name="HTC" Description="HTC is a Taiwanese multinational manufacturer of smartphones and tablets headquartered in New Taipei City, Taiwan" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Mobile</item>
+    </Children>
+  </Key>
+<Key Key="Philips" Name="Philips" Description="Philips is a Dutch diversified technology company headquartered in Amsterdam with primary divisions focused in the areas of electronics, healthcare and lighting." Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Television</item>
+    </Children>
+  </Key>
+<Key Key="Onida" Name="Onida" Description="Onida is an electronics brand of Mirc Electronics, based in India." Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Television</item>
+    </Children>
+  </Key>
+<Key Key="Toshiba" Name="Toshiba" Description="Toshiba is a Japanese multinational conglomerate corporation headquartered in Tokyo, Japan" Timestamp="2015-10-04T13:01:19.7165405-04:00">
+    <Payload>
+    </Payload>
+ <Children>
+      <item>Desktop</item>
+    </Children>
+  </Key>
+</root>

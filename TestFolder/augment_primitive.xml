@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Keytype>System.Int32</Keytype>
+  <Payloadtype>System.String</Payloadtype>
+  <Key Key="123" Name="The Prestige" Description="Contents from Augment file" Timestamp="2015-10-05T20:05:01.195233-04:00">
+    <Payload>Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion</Payload>
+    <Children>
+      <item>1</item>
+    </Children>
+  </Key>
+  <Key Key="213" Name="Citizen Kane" Description="Contents from Augment file" Timestamp="2015-10-05T20:05:01.0177451-04:00">
+    <Payload>Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance</Payload>
+    <Children>
+      <item>1</item>
+      <item>3</item>
+    </Children>
+  </Key>
+</root>

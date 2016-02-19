@@ -1,0 +1,48 @@
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\TESTDBFactory.exe.config
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\TESTDBFactory.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\TESTDBFactory.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBEdit.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBExtensions.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBFactory.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\Display.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\QueryEngine.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\PersistEngine.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBEdit.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBExtensions.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\DBFactory.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\Display.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\QueryEngine.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\bin\Debug\PersistEngine.pdb
+E:\SMA code samples\Project2Starter\TESTDBFactory\obj\Debug\TESTDBFactory.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\TESTDBFactory\obj\Debug\TESTDBFactory.exe
+E:\SMA code samples\Project2Starter\TESTDBFactory\obj\Debug\TESTDBFactory.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\TESTDBFactory.exe.config
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\TESTDBFactory.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\TESTDBFactory.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBEdit.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBExtensions.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBFactory.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\Display.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\QueryEngine.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\PersistEngine.exe
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBEdit.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBExtensions.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\QueryEngine.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\bin\Debug\PersistEngine.pdb
+E:\SMA_project2\Project 2\TESTDBFactory\obj\Debug\TESTDBFactory.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\TESTDBFactory\obj\Debug\TESTDBFactory.exe
+E:\SMA_project2\Project 2\TESTDBFactory\obj\Debug\TESTDBFactory.pdb

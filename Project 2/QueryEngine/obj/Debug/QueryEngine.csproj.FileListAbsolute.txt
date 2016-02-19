@@ -1,0 +1,36 @@
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\QueryEngine.exe.config
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\QueryEngine.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\QueryEngine.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBElement.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBEngine.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\UtilityExtensions.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBElement.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBEngine.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\UtilityExtensions.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+E:\SMA code samples\Project2Starter\QueryEngine\obj\Debug\QueryEngine.exe
+E:\SMA code samples\Project2Starter\QueryEngine\obj\Debug\QueryEngine.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBExtensions.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBExtensions.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBFactory.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\DBFactory.pdb
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\Display.exe
+E:\SMA code samples\Project2Starter\QueryEngine\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\QueryEngine.exe.config
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\QueryEngine.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\QueryEngine.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBElement.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBEngine.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBExtensions.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBFactory.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\Display.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\UtilityExtensions.exe
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBElement.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBEngine.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBExtensions.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\DBFactory.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\Display.pdb
+E:\SMA_project2\Project 2\QueryEngine\bin\Debug\UtilityExtensions.pdb
+E:\SMA_project2\Project 2\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+E:\SMA_project2\Project 2\QueryEngine\obj\Debug\QueryEngine.exe
+E:\SMA_project2\Project 2\QueryEngine\obj\Debug\QueryEngine.pdb
